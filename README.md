@@ -15,11 +15,9 @@
 
 ## About me:
 
-- Programmer Analyst at Cognizant 
+- BIA Analyst at NetJets, USA 
 
-- Business Analytics Intern at The Sparks Foundation.
-
-- Engineer by Education, but a Programmer,an Analyst,a Marketer,a Volunteer by Profession and hobby.
+- Business Analyst from the University of Cincinnati - Go Bearcats!
 
 - Find more about me on my website: <a href="maupatel.github.io"> 🌐 </a>
 
@@ -30,7 +28,7 @@
 
 ### 📫 How to reach me: 
 
-- Whatsapp : <a href="https://wa.me/919408377842" target="blank"><img align="center" src="https://github.com/maupatel/maupatel/blob/main/whatsapp-icon-v2.png" width="35x" /></a>
+- Whatsapp : <a href="https://wa.me/15138373305" target="blank"><img align="center" src="https://github.com/maupatel/maupatel/blob/main/whatsapp-icon-v2.png" width="35x" /></a>
 
 But if you are concerned about your privacy, then choose other options!
 
@@ -42,7 +40,7 @@ I am here too: <a href="https://www.linkedin.com/in/maupatel"> <img align="cente
 <div align="center">
 </div>
 <p align="center">
-  <a href="https://github.com/ynpreet">
+  <a href="https://github.com/maupatel">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maupatel&count_private=true&theme=algolia&hide_border=true&show_icons=true&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maupatel&theme=algolia&hide_border=true&langs_count=9&layout=compact"/>
   </a>
