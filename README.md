@@ -1,52 +1,33 @@
-### Hi there 👋
+# Hi, I'm Maulik Patel 👋
 
-### Greetings of the Day!
+**Data Engineer** — I move messy data from where it is to where it's useful, reliably, every day.
 
-### These are some of my current, past and upcoming projects.
+- 🏦 Currently building data systems at **Capital One** (Dallas, TX)
+- 🛠️ Previously: ETL at scale at **JPMorgan Chase** · data infrastructure at **NetJets**
+- 🎓 University of Cincinnati grad — Go Bearcats!
+- ⚡ Python · SQL · ETL/ELT pipelines · Streamlit · web scraping · automation
 
-- 🔭 I’m currently working on Data Visualization Tools.
+## 🚀 Projects
 
-- 🌱 I’m currently learning Machine Learning.
+| Project | What it does |
+|---|---|
+| [**job-oracle**](https://github.com/maupatel/job-oracle) | Job-search cockpit: aggregates live listings, scores them against your resume, drafts tailored cover letters, tracks applications |
+| [**ironpath**](https://github.com/maupatel/ironpath) | Free, ad-free gym do-along PWA — installable workout companion |
+| [**stock-oracle**](https://github.com/maupatel/stock-oracle) | Streamlit stock-analysis dashboard with live market data |
+| [**dfw-apartment-tracker**](https://github.com/maupatel/dfw-apartment-tracker) | Automated apartment-pricing tracker for the DFW market |
+| [**live-translator**](https://github.com/maupatel/live-translator) | Real-time in-browser speech translation |
 
-### 👯 I’m looking to collaborate on Working with Real-Life Dataset.
+Every one of these is a data pipeline in disguise: ingest → transform → serve.
 
-### ⚡ Fun fact: 
-- You cannot Breathe-In and Smile at the same time. Just kidding, Just Wanted to make you smile, as adults tend to smile atleast 10 times fewer times as compared to children!
+## 📫 Reach me
 
-## About me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-maupatel-0A66C2?logo=linkedin)](https://www.linkedin.com/in/maupatel)
+[![Email](https://img.shields.io/badge/Email-maulik737%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:maulik737@gmail.com)
+[![Website](https://img.shields.io/badge/Website-maupatel.github.io-222?logo=githubpages)](https://maupatel.github.io)
 
-- BIA Analyst at NetJets, USA 
+## 📊 GitHub Stats
 
-- Business Analyst from the University of Cincinnati - Go Bearcats!
-
-- Find more about me on my website: <a href="maupatel.github.io"> 🌐 </a>
-
-<!--
-### 🤔 I’m looking for help with ...
--->
-### 💬 Ask me about 'Anything', because I believe in 'You learn best by teaching!'
-
-### 📫 How to reach me: 
-
-- Whatsapp : <a href="https://wa.me/15138373305" target="blank"><img align="center" src="https://github.com/maupatel/maupatel/blob/main/whatsapp-icon-v2.png" width="35x" /></a>
-
-But if you are concerned about your privacy, then choose other options!
-
-- Mail Me : <a href="mailto:maulik737@gmail.com"> 📧maulik737@gmail.com </a>
-
-I am here too: <a href="https://www.linkedin.com/in/maupatel"> <img align="center" src="https://github.com/maupatel/maupatel/blob/main/linkedin.png" width="50x" /></a><a href="https://www.instagram.com/in/mau_patel_"><img align="center" src="https://github.com/maupatel/maupatel/blob/main/580b57fcd9996e24bc43c521.png" width="30x" /> </a>
-
-## :gear: My GitHub Analytics
-<div align="center">
-</div>
 <p align="center">
-  <a href="https://github.com/maupatel">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maupatel&count_private=true&theme=algolia&hide_border=true&show_icons=true&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maupatel&theme=algolia&hide_border=true&langs_count=9&layout=compact"/>
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maupatel&count_private=true&theme=algolia&hide_border=true&show_icons=true&include_all_commits=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maupatel&theme=algolia&hide_border=true&langs_count=8&layout=compact"/>
 </p>
-
-
-To help me get those numbers up, let's collaborate and together get our numbers high!
-
-Ciao!
