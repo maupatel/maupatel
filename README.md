@@ -1,11 +1,11 @@
 # Hi, I'm Maulik Patel 👋
 
-**Senior Data Analyst at Capital One** in Dallas, TX. I build the pipelines and data products behind the analytics: ingest, transform, serve, every day.
+**Senior Data Analyst at Capital One** in Dallas, TX. Seven years turning data into decisions: analytics, BI, and the automated pipelines that keep them fresh.
 
-- 🏦 Now: **Capital One**, Senior Data Analyst working across data systems and analytics
-- 🛠️ Before: ETL at scale at **JPMorgan Chase**, data infrastructure and BI at **NetJets**
+- 🏦 Now: **Capital One**, Senior Data Analyst, analytics and data products at a top-10 US bank
+- 📊 Before: **JPMorgan Chase**, Senior Analytics Consultant · **NetJets**, Data Analyst (BI)
 - 🎓 University of Cincinnati grad. Go Bearcats!
-- ⚡ Python · SQL · ETL/ELT pipelines · Streamlit · web scraping · automation · CI/CD
+- ⚡ SQL · Python · dashboards and KPI design · ETL/ELT · Streamlit · GitHub Actions · automation
 
 ## 🚀 Projects
 
