@@ -11,14 +11,13 @@
 
 | Project | What it does |
 |---|---|
-| [**market-pulse**](https://github.com/maupatel/market-pulse) | Self-running daily market data pipeline on GitHub Actions: fetches, versions, and publishes index data with zero manual steps |
-| [**job-oracle**](https://github.com/maupatel/job-oracle) | Job-search cockpit: aggregates live listings, scores them against your resume, drafts tailored cover letters, tracks applications |
-| [**ironpath**](https://github.com/maupatel/ironpath) | Free, ad-free gym do-along PWA. An installable workout companion |
-| [**stock-oracle**](https://github.com/maupatel/stock-oracle) | Streamlit stock-analysis dashboard with live market data |
-| [**dfw-apartment-tracker**](https://github.com/maupatel/dfw-apartment-tracker) | Automated apartment-pricing tracker for the DFW market |
-| [**live-translator**](https://github.com/maupatel/live-translator) | Real-time in-browser speech translation |
+| [**market-pulse**](https://github.com/maupatel/market-pulse) | Self-running daily market-data pipeline on GitHub Actions: fetches, versions, and publishes index data with zero manual steps |
+| [**dfw-apartment-tracker**](https://github.com/maupatel/dfw-apartment-tracker) | Automated pipeline tracking apartment pricing across the DFW market over time |
+| [**stock-oracle**](https://github.com/maupatel/stock-oracle) | Streamlit stock-analysis dashboard with live market data, screeners, and technical indicators |
+| [**live-translator**](https://github.com/maupatel/live-translator) | Real-time, in-browser speech translation |
+| [**Detecting-Fake-News-with-Python**](https://github.com/maupatel/Detecting-Fake-News-with-Python) | Machine-learning classifier that flags fake-news articles using NLP and a supervised text model |
 
-Every one of these is a data pipeline in disguise: ingest, transform, serve.
+A blend of data pipelines and AI-enabled apps: ingest, transform, serve, and put models to work.
 
 ## 📫 Reach me
 
